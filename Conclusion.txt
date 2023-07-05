@@ -1,0 +1,1 @@
+Git es una herramienta que nos sirve para hacer o ver el paso a paso de las cosas, ver errores, almacenar codigo, ver el historial y trabajar en equipo.

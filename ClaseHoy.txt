@@ -1,0 +1,1 @@
+En el dia de hoy los temas tratados son: Git incluye las funcionalidades de  crear ramas y fusiones y reescribir  historiales de repositorios, lo cual ha  dado como resultado muchas  herramientas y flujos de trabajo  innovadores y eficaces
